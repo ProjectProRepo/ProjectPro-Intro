@@ -6,6 +6,7 @@
 
 
 Are you ready to gear up your work with freshly baked projects? You’re at the right repo techie! ProjectPro is your go-to hub for conquering all GenAI, Data Science, and other related technology challenges.  
+
 ProjectPro is the world’s only platform designed to accelerate the learning and implementation of GenAI, LLMs, data science, machine learning, and data engineering projects. It provides ready-made, solved end-to-end reusable project templates that help developers solve real-world business problems efficiently. With a focus on practical experience, ProjectPro aims to bridge the gap between theoretical knowledge and real-world application.
 
 ### Why ProjectPro?
@@ -19,7 +20,7 @@ ProjectPro is the world’s only platform designed to accelerate the learning an
 
 [Hit this Link to Learn More](<link>)
 
-## Getting Started
+👉 **Getting Started**
 
 1. **Sign Up**: Create an account on ProjectPro.io to access the platform.
 2. **Choose a Project**: Browse through our extensive library of projects and choose one that aligns with your learning goals.
@@ -30,10 +31,6 @@ ProjectPro is the world’s only platform designed to accelerate the learning an
 
 📌 **Ready to check in? Here’s How to Get the Most from ProjectPro!**
 
-
-https://github.com/user-attachments/assets/90c76c87-dfd9-468a-8963-d5d63ca92296
-
-
   - **Discover, Learn, and Implement**  
 With over 250 end-to-end project templates, you can explore projects that cover the latest tech and tools. Industry experts design each project to ensure you gain practical experience that aligns with current market demands. This is your one-stop shop for discovering solutions that will enhance your skill set and boost your confidence.
 
@@ -43,9 +40,12 @@ Explore our extensive tech content library, featuring a diverse array of blogs a
   - **Learning Made Easy with ProjectPro’s Customised Learning Paths**  
 ProjectPro offers a wealth of knowledge and learning through comprehensive structured learning paths.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6252aeeb-83e8-44b8-992f-9986e60cd9d2" alt="01" />
+</p>
 ---
 
-## Table of Contents
+<h3 style="font-size:14px;"> 📌 Contribution Guidelines</h3>
 
 | **Name**               | **Description**                                                        |
 |------------------------|------------------------------------------------------------------------|
@@ -72,20 +72,24 @@ ProjectPro offers a wealth of knowledge and learning through comprehensive struc
 
 ---
 
-📚 **Contribution Guidelines**  
+<h3 style="font-size:14px;">📚 Contribution Guidelines</h3>
+ 
 Thank you for wanting to contribute to ProjectPro Repo. Your insights and feedback will help others learn and grow through our high-quality blogs, tutorials, and guides/e-books/case studies.
 
-### How Can You Contribute?
+<h3 style="font-size: 14px;">🤝 How Can You Contribute?</h3>
+
 - **Share Your Insights**: Add your thoughts and suggestions to any blog or tutorial content.
 - **Recommend Topics**: Suggest new topics you’d like to see covered in future blogs and tutorials.
 - **Provide Feedback**: Help us improve by sharing your ideas on what could make our content even more useful.
 
-### How do you add your contribution?
+<h3 style="font-size: 14px;">🤝 How Can You Add Your Contribution?</h3>
+
 1. **Fork the Repository**: Copy this repository under your own GitHub account.
 2. **Create a New Branch**: Use a branch name-like feature/suggestions.
 3. **Add Your Contributions**: Include your insights, recommendations, or feedback in a clear, organized format.
 4. **Open a Pull Request (PR)**: Submit your PR with a brief description of your suggestions.  
 Our team will review your PR and may reach out for further clarification. Thank you for helping us make ProjectPro even better with your valuable input!
+
 
 ---
 
