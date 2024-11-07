@@ -30,6 +30,10 @@ ProjectPro is the world’s only platform designed to accelerate the learning an
 
 📌 **Ready to check in? Here’s How to Get the Most from ProjectPro!**
 
+
+https://github.com/user-attachments/assets/90c76c87-dfd9-468a-8963-d5d63ca92296
+
+
   - **Discover, Learn, and Implement**  
 With over 250 end-to-end project templates, you can explore projects that cover the latest tech and tools. Industry experts design each project to ensure you gain practical experience that aligns with current market demands. This is your one-stop shop for discovering solutions that will enhance your skill set and boost your confidence.
 
