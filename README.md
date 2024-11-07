@@ -1,9 +1,8 @@
 <h1 align="center">🚀 Hola! Welcome to the Official Repository of ProjectPro! 🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6918bb5f-ec5f-40b6-8d45-772108f7e7ba" alt="Project pro logo_black" />
+  <img src="https://github.com/user-attachments/assets/de4660bf-eb27-4b8d-9378-6edd9c717468" alt="Project pro logo_white" />
 </p>
-
 
 Are you ready to gear up your work with freshly baked projects? You’re at the right repo techie! ProjectPro is your go-to hub for conquering all GenAI, Data Science, and other related technology challenges.  
 
