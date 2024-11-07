@@ -18,7 +18,12 @@ ProjectPro is the world’s only platform designed to accelerate the learning an
 - ✅ Unlimited 1:1 Sessions: Enjoy personalized mentorship sessions for support, guidance, and career advice from industry professionals.
 - ✅ Upgrade your skillset with our easy-to-follow customized Learning Paths, taking you from beginner to expert in your area of expertise.
 
-[Hit this Link to Learn More](<link>)
+<div align="center">
+
+[![Hit this Link to Learn More](https://img.shields.io/badge/Hit%20this%20Link%20to%20Learn%20More-brightgreen?style=for-the-badge)](https://www.projectpro.io/)
+
+</div>
+
 
 👉 **Getting Started**
 
