@@ -58,18 +58,18 @@ ProjectPro offers a wealth of knowledge and learning through comprehensive struc
 | **AWS**                   | Industry Level Amazon Web Services (AWS) Projects for cloud-based solutions. |
 | **Generative AI**         | Learn Gen AI concepts from scratch. |
 | **Data Science**          | End-to-end projects for analyzing and deriving insights from data.     |
-| **MLOps**                 | Machine learning operationalization, deploying, and maintaining models in production. |
+| **MLOps**                 | Machine learning operations, deploying, and maintaining models in production. |
 | **Azure**                 | Projects focused on Microsoft Azure cloud solutions.                   |
 | **ML**                    | Machine learning projects including basic to advanced algorithms, models, and techniques. |
 | **Pyspark**               | Projects using PySpark for large-scale data processing and analysis.  |
 | **NLP**                   | Natural Language Processing basic to advanced concepts for text analysis and understanding. |
-| **Big Data**              | Projects that would help you learn determine massive data sets and distributed systems.       |
+| **Big Data**              | Projects that would help you learn to determine massive data sets and distributed systems.       |
 | **Spark SQL**             | SQL-based projects to help you learn Apache Spark for big data processing.   |
 | **Apache Spark**          | Distributed data processing using Apache Spark for large-scale analytics. |
 | **Pyspark**               | Big data processing using PySpark with Python.                        |
-| **Apache Hadoop**         | Projects using the Hadoop ecosystem for distributed storage and processing. |
-| **Apache Hive**           | Projects using Apache Hive for data warehouse solutions on Hadoop.    |
-| **AWS**                   | Cloud-based solutions leveraging AWS infrastructure and services.    |
+| **Apache Hadoop**         | Overview of projects using the Hadoop ecosystem for distributed storage and processing. |
+| **Apache Hive**           | Overview of projects using Apache Hive for data warehouse solutions on Hadoop.    |
+| **AWS**                   | Cloud-based solutions using AWS infrastructure and services.    |
 | **Azure**                 | Everything about Cloud-based solutions using the Microsoft Azure platform.                 |
 | **Apache Kafka**          | Projects utilizing Apache Kafka for distributed event streaming and messaging. |
 
