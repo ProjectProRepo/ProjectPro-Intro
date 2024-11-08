@@ -49,7 +49,7 @@ ProjectPro offers a wealth of knowledge and learning through comprehensive struc
 </p>
 ---
 
-<h3 style="font-size:14px;"> 📌 Contribution Guidelines</h3>
+<h3 style="font-size:14px;"> 📌 Table of Contents</h3>
 
 | **Name**               | **Description**                                                        |
 |------------------------|------------------------------------------------------------------------|
@@ -58,9 +58,9 @@ ProjectPro offers a wealth of knowledge and learning through comprehensive struc
 | **AWS**                   | Industry Level Amazon Web Services (AWS) Projects for cloud-based solutions. |
 | **Generative AI**         | Learn Gen AI concepts from scratch. |
 | **Data Science**          | End-to-end projects for analyzing and deriving insights from data.     |
-| **MLOps**                 | Machine learning operations, deploying, and maintaining models in production. |
+| **MLOps**                 | Machine learning operations, deploying and maintaining models in production. |
 | **Azure**                 | Projects focused on Microsoft Azure cloud solutions.                   |
-| **ML**                    | Machine learning projects including basic to advanced algorithms, models, and techniques. |
+| **ML**                    | Machine learning projects, including basic to advanced algorithms, models, and techniques. |
 | **Pyspark**               | Projects using PySpark for large-scale data processing and analysis.  |
 | **NLP**                   | Natural Language Processing basic to advanced concepts for text analysis and understanding. |
 | **Big Data**              | Projects that would help you learn to determine massive data sets and distributed systems.       |
