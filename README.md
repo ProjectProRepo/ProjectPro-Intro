@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hola! Welcome to the Official Repository of ProjectPro! 🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de4660bf-eb27-4b8d-9378-6edd9c717468" alt="Project pro logo_white" />
+  <img src="https://github.com/user-attachments/assets/bc04949b-0ce9-42e1-9e85-a042ea985e5c" alt="Image description" />
 </p>
 
 Are you ready to gear up your work with freshly baked projects? You’re at the right repo techie! ProjectPro is your go-to hub for conquering all GenAI, Data Science, and other related technology challenges.  
@@ -42,14 +42,14 @@ With over 250 end-to-end project templates, you can explore projects that cover 
 Explore our extensive tech content library, featuring a diverse array of blogs and tutorials on various technologies and tools tailored for GenAI, data science, machine learning, and big data.
 
   - **Learning Made Easy with ProjectPro’s Customised Learning Paths**  
-ProjectPro offers a wealth of knowledge and learning through comprehensive structured learning paths.
+ProjectPro offers a wealth of knowledge and learning through comprehensive, structured learning paths.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6252aeeb-83e8-44b8-992f-9986e60cd9d2" alt="01" />
 </p>
 ---
 
-<h3 style="font-size:14px;"> 📌 Table of Contents</h3>
+<h2 style="font-size:14px;"> 📌 Table of Contents</h2>
 
 | **Name**               | **Description**                                                        |
 |------------------------|------------------------------------------------------------------------|
